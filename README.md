@@ -1,14 +1,41 @@
-# Project
+# Beginner's Series to Blockchain
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+## Overview
 
-As the maintainer of this project, please make a few updates:
+This repository supports the Beginner's Series to Blockchain. The goal of this series is to explain and demonstrate the foundations of blockchain principles. Blockchain has been one of the most exciting emerging technologies in the past decade, and will continue to be a significant technology for the next decade to come. This series is for everyone, no matter what your career or academic background is. Experience with some level of programming in a language like C++, Java, or Python would be helpful but is absolutely not required.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## What you'll learn
+
+- History of blockchain
+- Evolution of cryptocurrency
+- Blockchain nodes
+- Mining
+- Consensus algorithms
+- Blockchain use cases
+- Bitcoin
+- Ethereum
+- Smart contracts
+- Crypto tokes
+
+## Next steps
+
+If you want to follow along with the course, you can try out the demos on your own with the code examples in this repository.
+
+## Helpful resources
+
+To continue your learning, you can refer to the following resources:
+
+- [Microsoft Learn path on blockchain](https://docs.microsoft.com/learn/paths/ethereum-blockchain-development/?WT.mc_id=reactor-github-reactor)
+- [Slides link TBD]()
+- [Ethereum website](https://ethereum.org/)
+- [Bitcoin website](https://bitcoin.org/en/)
+- [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [OpenZeppelin website](https://openzeppelin.com/)
+- [Microsoft Azure Blockchain website](https://docs.microsoft.com/azure/blockchain/)
+- [Solidity website](https://solidity.readthedocs.io/)
+- [Blockchain explorer](https://www.blockchain.com/explorer)
+- [Coinbase](http://coinbase.com/) 
+
 
 ## Contributing
 
