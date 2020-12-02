@@ -21,7 +21,7 @@ This repository supports the Beginner's Series to Blockchain. The goal of this s
 
 ## Next steps
 
-If you want to follow along with the course, you can try out the demos on your own with the code examples in this repository.
+If you want to follow along with the course, you can try out the demos on your own with the contract example in this repository, and the resources shared below.
 
 ## Helpful resources
 
