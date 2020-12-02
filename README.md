@@ -27,8 +27,14 @@ If you want to follow along with the course, you can try out the demos on your o
 
 To continue your learning, you can refer to the following resources:
 
+### Microsoft specific
+
 - [Blockchain development Learning Path](https://docs.microsoft.com/learn/paths/ethereum-blockchain-development/?WT.mc_id=blockchainbeginner-ch9-niner)
 - [Slides for this series](Blockchain%20for%20beginners.pdf)
+- [Beginner's Series to Blockchain videos](https://aka.ms/BeginnerSeriesToBlockchain)
+
+### External resources
+
 - [Ethereum website](https://ethereum.org/)
 - [Bitcoin website](https://bitcoin.org/en/)
 - [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)
