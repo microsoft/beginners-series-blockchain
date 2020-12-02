@@ -34,8 +34,8 @@ To continue your learning, you can refer to the following resources:
 - [Microsoft Azure Blockchain website](https://docs.microsoft.com/azure/blockchain/)
 - [Solidity website](https://solidity.readthedocs.io/)
 - [Blockchain explorer](https://www.blockchain.com/explorer)
-- [Coinbase](http://coinbase.com/) 
-
+- [Coinbase website](http://coinbase.com/)
+- [Truffle Suite website](https://www.trufflesuite.com/)
 
 ## Contributing
 
