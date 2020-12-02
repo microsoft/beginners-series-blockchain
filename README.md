@@ -4,7 +4,7 @@
 
 This repository supports the Beginner's Series to Blockchain. The goal of this series is to explain and demonstrate the foundations of blockchain principles. Blockchain has been one of the most exciting emerging technologies in the past decade, and will continue to be a significant technology for the next decade to come. This series is for everyone, no matter what your career or academic background is. Experience with some level of programming in a language like C++, Java, or Python would be helpful but is absolutely not required.
 
-## What you'll learn
+## What you'll learn about in this series
 
 - History of blockchain
 - Evolution of cryptocurrency
@@ -14,8 +14,10 @@ This repository supports the Beginner's Series to Blockchain. The goal of this s
 - Blockchain use cases
 - Bitcoin
 - Ethereum
+- Solidity
 - Smart contracts
-- Crypto tokes
+- OpenZeppelin
+- Azure Solutions
 
 ## Next steps
 
